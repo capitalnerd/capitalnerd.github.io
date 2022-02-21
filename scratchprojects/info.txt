@@ -1,0 +1,4 @@
+Das sind meine Scratch-Projekte, die ich selbst programmiert habe. Manche sind noch unfertig aber du kannst sie ganz einfach weiterentwickeln.
+Die Projekte wurden in Scratch 3 programmiert.
+Die Projekte:
+  pingpongextreme.sb3
