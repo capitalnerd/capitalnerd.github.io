@@ -1,2 +1,2 @@
-name;id;src;contributor;version;lang
-File Downloader;1a001;./python/fileHandling/fileDownloader.py;capitalnerd;1;python
+name,id,src,contributor,version,lang
+File Downloader,1a001,./python/fileHandling/fileDownloader.py,capitalnerd,1,python
