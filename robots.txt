@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /index.html
+Allow: /api/
+Allow: /projects/
+Allow: /share/event/schanzenfest25/
+Allow: /sheep/
